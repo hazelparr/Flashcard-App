@@ -12,7 +12,7 @@ Details
   </ul>
   
   
-![flashcards](https://user-images.githubusercontent.com/16160132/31319593-3c620afe-ac5e-11e7-9aac-a629d94bf12d.jpg)
 
+![flashcards2](https://user-images.githubusercontent.com/16160132/31319660-5ebc3646-ac5f-11e7-8dd4-79274088bef9.jpg)
 
 Live Demo: https://my-flashcards-express-app.herokuapp.com/
