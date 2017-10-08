@@ -8,7 +8,7 @@ const app = express();
 
 //to set the view engine to pug
 app.set('view engine', 'pug');
-
+const port = process.env.PORT || 3000;
 
 
 
@@ -41,6 +41,6 @@ app.use(function(err, req, res, next){
 
 
 //set up the server
-app.listen(3000, function(){
+app.listen(port, function(){
     console.log("Application is running on localhost:3000");
 });
